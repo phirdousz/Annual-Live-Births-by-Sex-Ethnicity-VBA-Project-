@@ -1,3 +1,11 @@
+'________________
+'1st code for opening the module
+Sub ShowUserForm()
+    UserFormYear.Show
+End Sub
+
+'________________________________
+' 2nd Code for UserForm
 Private Sub UserForm_Initialize()
     Dim i As Integer
     
