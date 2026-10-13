@@ -12,7 +12,7 @@ Built with **Excel VBA**, **UserForms** and **VLOOKUP** as a portfolio project.
 
 | Input form | Result on the Program sheet |
 |:---:|:---:|
-| ![UserForm](screenshots/userform.png) | ![Program sheet](screenshots/program-sheet.png) |
+| ![UserForm](screenshots/userform.png) | ![Program sheet](screenshots/result.png) |
 
 ---
 
