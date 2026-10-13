@@ -48,7 +48,7 @@ User input  ->  Validate  ->  Build key ("2022-female-overall")  ->  VLOOKUP  ->
 ```
 .
 ├── Birth_Statistics_Lookup.xlsm   # The workbook (data + form + macros)
-├── src/
+├── VBA Code/
 │   ├── Module1.bas                # Macro that opens the form
 │   └── UserFormYear.cls           # Form logic (initialise, validate, lookup)
 ├── screenshots/                   # Images used in this README
